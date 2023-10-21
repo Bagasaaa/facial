@@ -1,0 +1,102 @@
+{
+    "no makeup": {
+      "tujuan_makeup": ["Sekolah/Kuliah", "Kerja", "Travelling"],
+      "tujuan_makeup_en": ["School/College", "Work",  "Travelling"],
+      "deskripsi_makeup": "Saat ini kamu <b>belum menggunakan makeup</b>. Namun jangan khawatir, tidak menggunakan makeup juga cocok untuk kegiatan seperti <b>bekerja, sekolah, kuliah, maupun travelling</b>. Berikut kami akan memberikan rekomendasi makeup untuk kamu jika ingin menggunakan makeup.",
+      "deskripsi_makeup_en": "Currently, you are <b>not wearing any makeup yet.</b> Fret not, <b>not wearing makeup</b> is suitable for activities such as <b>working, going to school, attending college, and traveling.</b> If you'd like to wear makeup, we can provide suitable makeup recommendations for you ",
+      "pemilihan_warna": "Saat ini kamu belum menggunakan makeup. Walaupun tidak menggunakan makeup juga cocok dengan tujuanmu, namun jika ingin menggunakan makeup, berikut beberapa tips pemilihan warna dari kami.",
+      "pemilihan_warna_en": "Currently, you're not wearing any makeup. Not wearing makeup is suitable for your preferences. Although, if you'd like to wear makeup, you may take a look at some color selection tips from us.",
+      "pemilihan_warna_negasi": "Pemilihan warnamu kurang sesuai dengan tema makeup, kamu bisa menggunakan warna-warna berikut.",
+      "pemilihan_warna_negasi_en": "Oops! Your color palettes are not suitable for the makeup theme yet. You may take a look at these following colors.",
+      "tips_makeup_lain": "Tips Makeup lain",
+      "tips_makeup_lain_en": "Other Makeup Tips"
+    },
+    "casual makeup": {
+      "tujuan_makeup": ["Sekolah/Kuliah", "Kerja", "Travelling"],
+      "tujuan_makeup_en": ["School/College", "Work", "Travelling"],
+      "deskripsi_makeup": "Makeup kamu saat ini bertema <b>Casual Makeup</b>. <b>Casual Makeup</b> mementingkan kesederhanaan dan keanggunan, sangat cocok untuk acara sehari-hari yang lebih santai seperti <b>piknik, bertemu dengan kerabat, mendatangi festival musik, atau pesta kebun</b>. Warna yang sering digunakan antaranya: <b>Beige atau nude, coklat atau coklat muda, pink atau peach, warna netral mata (coklat muda, krem atau abu-abu pucat), warna transparan atau warna kulit.</b>",
+      "deskripsi_makeup_en": "Your current makeup theme is <b>Casual Makeup</b>. <b>Casual Makeup</b> prioritizes simplicity and elegance. It is perfect for relaxed daily occasions such as <b>picnics, family gatherings, music festivals, or garden parties</b>. Popular color palettes include: <b>Beige or nude, brown or light brown, pink or peach, neutral eye shades (light brown, cream, or pale gray), transparent shades, or skin tones.</b>",
+      "pemilihan_warna": "Pemilihan warnamu sudah tepat, tetapi jika kamu ingin bereksperimen, kamu juga bisa menggunakan warna-warna berikut.",
+      "pemilihan_warna_en": "Your color palettes are suitable, but if you'd like to experiment, you may take a look at these following colors.",
+      "pemilihan_warna_negasi": "Pemilihan warnamu kurang sesuai dengan tema makeup, kamu bisa menggunakan warna-warna berikut.",
+      "pemilihan_warna_negasi_en": "Oops! Your color palettes are not suitable for the makeup theme yet. You may take a look at these following colors.",
+      "tips_makeup_lain": "Tips Makeup lain",
+      "tips_makeup_lain_en": "Other Makeup Tips"
+    },
+    "vintage makeup": {
+      "tujuan_makeup": ["Halloween", "Konser", "Cosplay"],
+      "tujuan_makeup_en": ["Halloween", "Concert", "Cosplay"],
+      "deskripsi_makeup": "Makeup kamu saat ini bertema <b>Vintage Makeup</b>. <b>Vintage Makeup</b> memilihi karakter tampilan mata dengan <b>winged eyeliner, bibir merah muda atau merah yang menonjol serta kulit matte</b>.\n<b>Makeup vintage</b> mengacu pada gaya dan estetika era-era tertentu seperti tahun 1920-an, 1930-an, 1940-an, dst.",
+      "deskripsi_makeup_en": "Your current makeup theme is <b>Vintage Makeup</b>. <b>Vintage Makeup</b> emphasizes distinctive eye features with <b>winged eyeliner, prominent rosy or red lips, and a matte complexion</b>. <b>Vintage makeup</b> refers to styles and aesthetics from specific eras such as the 1920s, 1930s, 1940s, and so on.",
+      "pemilihan_warna": "Pemilihan warnamu sudah tepat, tetapi jika kamu ingin bereksperimen, kamu juga bisa menggunakan warna-warna berikut.",
+      "pemilihan_warna_en": "Your color palettes are suitable, but if you'd like to experiment, you may take a look at these following colors.",
+      "pemilihan_warna_negasi": "Pemilihan warnamu kurang sesuai dengan tema makeup, kamu bisa menggunakan warna-warna berikut.",
+      "pemilihan_warna_negasi_en": "Oops! Your color palettes are not suitable for the makeup theme yet. You may take a look at these following colors.",
+      "tips_makeup_lain": "Tips Makeup lain",
+      "tips_makeup_lain_en": "Other Makeup Tips"
+    },
+    "evening makeup": {
+      "tujuan_makeup": ["Wedding", "Graduation", "Prom Night", "Party"],
+      "tujuan_makeup_en": ["Wedding", "Graduation", "Prom Night", "Party"],
+      "deskripsi_makeup": "Makeup kamu saat ini bertema <b>Evening Makeup</b>. <b>Evening Makeup</b> adalah tata rias wajah yang dirancang khusus untuk <b>acara atau kesempatan malam hari yang lebih formal atau istimewa</b>. Tujuan dari tata rias malam hari adalah untuk menciptakan penampilan yang <b>dramatis, elegan, dan lebih \"bersinar\"</b> di bawah cahaya lampu malam.",
+      "deskripsi_makeup_en": "Your current makeup theme is <b>Evening Makeup</b>. <b>Evening Makeup</b> is suitable for <b>formal or special evening occasions</b>. Evening Makeup aims for a <b>dramatic, elegant, and more 'radiant' impression</b> under the evening lights.",
+      "pemilihan_warna": "Pemilihan warnamu sudah tepat, tetapi jika kamu ingin bereksperimen, kamu juga bisa menggunakan warna-warna berikut.",
+      "pemilihan_warna_en": "Your color palettes are suitable, but if you'd like to experiment, you may take a look at these following colors.",
+      "pemilihan_warna_negasi": "Pemilihan warnamu kurang sesuai dengan tema makeup, kamu bisa menggunakan warna-warna berikut.",
+      "pemilihan_warna_negasi_en": "Oops! Your color palettes are not suitable for the makeup theme yet. You may take a look at these following colors.",
+      "tips_makeup_lain": "Tips Makeup lain",
+      "tips_makeup_lain_en": "Other Makeup Tips"
+    },
+    "evening glamour makeup": {
+      "tujuan_makeup": ["Wedding", "Graduation", "Prom Night", "Party"],
+      "tujuan_makeup_en": ["Wedding", "Graduation", "Prom Night", "Party"],
+      "deskripsi_makeup": "Makeup kamu saat ini bertema <b>Evening Glamour Makeup</b>. <b>Evening Glamour Makeup</b> adalah tata rias wajah yang dirancang khusus untuk <b>acara atau kesempatan malam hari yang lebih formal atau istimewa</b>. Tujuan dari tata rias malam hari adalah untuk menciptakan penampilan yang <b>dramatis, elegan, dan lebih \"bersinar\"</b> di bawah cahaya lampu malam.",
+      "deskripsi_makeup_en": "Your current makeup theme is <b>Evening Glamour Makeup</b>. <b>Evening Glamour Makeup</b> is suitable for <b>formal or special evening occasions</b>. Evening Glamour Makeup aims for a <b>dramatic, elegant, and more 'radiant' impression</b> under the evening lights.",
+      "pemilihan_warna": "Pemilihan warnamu sudah tepat, tetapi jika kamu ingin bereksperimen, kamu juga bisa menggunakan warna-warna berikut.",
+      "pemilihan_warna_en": "Your color palettes are suitable, but if you'd like to experiment, you may take a look at these following colors.",
+      "pemilihan_warna_negasi": "Pemilihan warnamu kurang sesuai dengan tema makeup, kamu bisa menggunakan warna-warna berikut.",
+      "pemilihan_warna_negasi_en": "Oops! Your color palettes are not suitable for the makeup theme yet. You may take a look at these following colors.",
+      "tips_makeup_lain": "Tips Makeup lain",
+      "tips_makeup_lain_en": "Other Makeup Tips"
+    },
+    "bold makeup": {
+      "tujuan_makeup": ["Wedding", "Graduation", "Prom Night", "Party", "Halloween", "Konser", "Cosplay"],
+      "tujuan_makeup_en": ["Wedding", "Graduation", "Prom Night", "Party", "Halloween", "Concert", "Cosplay"],
+      "deskripsi_makeup": "Makeup kamu saat ini bertema <b>Bold Makeup</b>. <b>Bold Makeup sangat cocok untuk acara panggung, pertunjukan, pernikahan, atau pesta kostum.</b>\nWarna yang sering digunakan cenderung mencolok, berani, dan memberikan tampilan dramatis seperti eyeliner tebal, warna bibir mencolok, atau glitter yang mencolok.",
+      "deskripsi_makeup_en": "Your current makeup theme is <b>Bold Makeup</b>. <b>Bold Makeup is perfect for stage events, performances, weddings, or costume parties.</b> The color palettes are striking, daring, and giving a dramatic look. The look is visible from the thick eyeliner, vibrant lip colors, or eye-catching glitter.",
+      "pemilihan_warna": "Pemilihan warnamu sudah tepat, tetapi jika kamu ingin bereksperimen, kamu juga bisa menggunakan warna-warna berikut.",
+      "pemilihan_warna_en": "Your color palettes are suitable, but if you'd like to experiment, you may take a look at these following colors.",
+      "pemilihan_warna_negasi": "Pemilihan warnamu kurang sesuai dengan tema makeup, kamu bisa menggunakan warna-warna berikut.",
+      "pemilihan_warna_negasi_en": "Oops! Your color palettes are not suitable for the makeup theme yet. You may take a look at these following colors.",
+      "tips_makeup_lain": "Tips Makeup lain",
+      "tips_makeup_lain_en": "Other Makeup Tips"
+    },
+    "bold smokey eye makeup": {
+      "tujuan_makeup": ["Wedding", "Graduation", "Prom Night", "Party", "Halloween", "Konser", "Cosplay"],
+      "tujuan_makeup_en": ["Wedding", "Graduation", "Prom Night", "Party", "Halloween", "Concert", "Cosplay"],
+      "deskripsi_makeup": "Makeup kamu saat ini bertema <b>Bold Makeup</b>. <b>Bold Makeup sangat cocok untuk acara panggung, pertunjukan, pernikahan, atau pesta kostum.</b>\nWarna yang sering digunakan cenderung mencolok, berani, dan memberikan tampilan dramatis seperti eyeliner tebal, warna bibir mencolok, atau glitter yang mencolok.",
+      "deskripsi_makeup_en": "Your current makeup theme is <b>Bold Makeup</b>. <b>Bold Makeup is perfect for stage events, performances, weddings, or costume parties.</b> The color palettes are striking, daring, and giving a dramatic look. The look is visible from the thick eyeliner, vibrant lip colors, or eye-catching glitter.",
+      "pemilihan_warna": "Pemilihan warnamu sudah tepat, tetapi jika kamu ingin bereksperimen, kamu juga bisa menggunakan warna-warna berikut.",
+      "pemilihan_warna_en": "Your color palettes are suitable, but if you'd like to experiment, you may take a look at these following colors.",
+      "pemilihan_warna_negasi": "Pemilihan warnamu kurang sesuai dengan tema makeup, kamu bisa menggunakan warna-warna berikut.",
+      "pemilihan_warna_negasi_en": "Oops! Your color palettes are not suitable for the makeup theme yet. You may take a look at these following colors.",
+      "tips_makeup_lain": "Tips Makeup lain",
+      "tips_makeup_lain_en": "Other Makeup Tips"
+    },
+    "fantasy makeup": {
+      "tujuan_makeup": ["Halloween", "Konser", "Cosplay"],
+      "tujuan_makeup_en": ["Halloween", "Concert", "Cosplay"],
+      "deskripsi_makeup": "Makeup kamu saat ini bertema <b>Fantasy Makeup</b>. <b>Fantasy Makeup sangat cocok untuk acara kostum, pesta tema fantasi, atau acara seni.</b> Makeup fantasy menggunakan warna-warna terang, neon, atau efek berbeda seperti warna kulit yang diubah atau detail kreatif seperti lukisan wajah.\n<b>Makeup fantasy cenderung mengambil inspirasi dari dunia imajinasi, seperti makhluk mitologi, karakter fiksi, atau tema fantasi lainnya.</b>",
+      "deskripsi_makeup_en": "Your current makeup theme is <b>Fantasy Makeup</b>. <b>Fantasy Makeup is perfect for costume events, fantasy-themed parties, or art occasions.</b> Fantasy Makeup often utilizes bright and neon colors. The makeup may include creative details to bring out the desired looks, such as altered skin tones or face painting. <b>Fantasy makeup draws inspirations from imaginative worlds, such as mythological creatures, fictional characters, or other fantasy themes.</b>",
+      "pemilihan_warna": "Pemilihan warnamu sudah tepat, tetapi jika kamu ingin bereksperimen, kamu juga bisa menggunakan warna-warna berikut.",
+      "pemilihan_warna_en": "Your color palettes are suitable, but if you'd like to experiment, you may take a look at these following colors.",
+      "pemilihan_warna_negasi": "Pemilihan warnamu kurang sesuai dengan tema makeup, kamu bisa menggunakan warna-warna berikut.",
+      "pemilihan_warna_negasi_en": "Oops! Your color palettes are not suitable for the makeup theme yet. You may take a look at these following colors.",
+      "tips_makeup_lain": "Tips Makeup lain",
+      "tips_makeup_lain_en": "Other Makeup Tips"
+    }
+  }
+  
+  
+  
+  

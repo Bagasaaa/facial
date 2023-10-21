@@ -1,0 +1,105 @@
+{
+    "average_colors_rgb": {
+        "Blush": [
+            233,
+            183,
+            164
+        ],
+        "Lipstick": [
+            159,
+            94,
+            91
+        ],
+        "Eyeshadow": [
+            181,
+            138,
+            123
+        ],
+        "Foundation": [
+            226,
+            172,
+            146
+        ]
+    },
+    "average_colors_hex": {
+        "Blush": "#e9b7a4",
+        "Lipstick": "#9f5e5b",
+        "Eyeshadow": "#b58a7b",
+        "Foundation": "#e2ac92"
+    },
+    "average_colors_names": {
+        "Blush": "Pink Abalone",
+        "Lipstick": "Rhode Island Red",
+        "Eyeshadow": "Cappuccino Bombe",
+        "Foundation": "California Coral"
+    },
+    "Blush": {
+        "average_colors_rgb": [
+            233,
+            183,
+            164
+        ],
+        "average_colors_hex": "#e9b7a4",
+        "average_colors_names": "Pink Abalone"
+    },
+    "Lipstick": {
+        "average_colors_rgb": [
+            159,
+            94,
+            91
+        ],
+        "average_colors_hex": "#9f5e5b",
+        "average_colors_names": "Rhode Island Red"
+    },
+    "Eyeshadow": {
+        "average_colors_rgb": [
+            181,
+            138,
+            123
+        ],
+        "average_colors_hex": "#b58a7b",
+        "average_colors_names": "Cappuccino Bombe"
+    },
+    "Foundation": {
+        "average_colors_rgb": [
+            226,
+            172,
+            146
+        ],
+        "average_colors_hex": "#e2ac92",
+        "average_colors_names": "California Coral"
+    },
+    "uploaded_image": 1,
+    "kategori_makeup": "<b>fantasy makeup</b>",
+    "kategori_makeup_en": "<b>fantasy makeup</b>",
+    "deskripsi_makeup": "Tema make up kamu saat ini adalah <b>fantasy makeup</b>. Namun, jika tujuanmu adalah untuk <b>Sekolah/Kuliah</b>, sebaiknya kamu pertimbangkan tema make up seperti <b>casual makeup</b>.",
+    "deskripsi_makeup_en": "The current theme of your makeup is <b>fantasy makeup</b>. However, if your goal is <b>School/College</b>, you might want to consider makeup themes like <b>casual makeup</b>.",
+    "rekomendasi_tema_makeup": [
+        "casual_makeup"
+    ],
+    "pemilihan_warna": "Pemilihan warnamu kurang sesuai dengan tema makeup, kamu bisa menggunakan warna-warna berikut.",
+    "pemilihan_warna_en": "Oops! Your color palettes are not suitable for the makeup theme yet. You may take a look at these following colors.",
+    "tips_makeup_lain": "Tips Makeup lain",
+    "tips_makeup_lain_en": "Other Makeup Tips",
+    "kecocokan_makeup": false,
+    "rekomendasi_makeup_eyeshadow": [
+        "./rekomendasi_makeup/eyeshadow_casual_makeup1.jpg",
+        "./rekomendasi_makeup/eyeshadow_casual_makeup2.jpg",
+        "./rekomendasi_makeup/eyeshadow_casual_makeup3.jpg"
+    ],
+    "rekomendasi_makeup_blushon": [
+        "./rekomendasi_makeup/blushon_casual_makeup1.jpg",
+        "./rekomendasi_makeup/blushon_casual_makeup2.jpg",
+        "./rekomendasi_makeup/blushon_casual_makeup3.jpg"
+    ],
+    "rekomendasi_makeup_lipstick": [
+        "./rekomendasi_makeup/lipstick_casual_makeup1.jpg",
+        "./rekomendasi_makeup/lipstick_casual_makeup2.jpg",
+        "./rekomendasi_makeup/lipstick_casual_makeup3.jpg"
+    ],
+    "rekomendasi_makeup_overall": [
+        "./rekomendasi_makeup/overall_casual_makeup1.png",
+        "./rekomendasi_makeup/overall_casual_makeup2.png",
+        "./rekomendasi_makeup/overall_casual_makeup3.png"
+    ]
+}

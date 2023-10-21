@@ -1,0 +1,38 @@
+{
+    "fantasy_makeup": {
+        "tujuan_makeup": ["Halloween", "Konser", "Cosplay"],
+        "deskripsi_makeup": "Makeup kamu saat ini bertema Fantasy Makeup. Fantasy Makeup sangat cocok untuk acara kostum, pesta tema fantasi, atau acara seni. Makeup fantasy menggunakan warna-warna terang, neon, atau efek berbeda seperti warna kulit yang diubah atau detail kreatif seperti lukisan wajah.\nMakeup fantasy cenderung mengambil inspirasi dari dunia imajinasi, seperti makhluk mitologi, karakter fiksi, atau tema fantasi lainnya.",
+        "pemilihan_warna": "Pemilihan warnamu sudah tepat, tetapi jika kamu ingin bereksperimen, kamu juga bisa menggunakan warna-warna berikut.",
+        "tips_makeup_lain": "Tips Makeup lain"
+    },
+    "smokey_eyes": {
+        "tujuan_makeup": ["Halloween", "Konser", "Cosplay"],
+        "deskripsi_makeup": "Makeup kamu saat ini bertema Smoky Eyes. Smoky Eyes makeup sangat cocok untuk acara malam dan pesta dengan menggunakan warna-warna gelap seperti hitam, abu-abu, atau cokelat yang di blend secara halus untuk menciptakan efek mata yang dalam dan misterius.",
+        "pemilihan_warna": "Pemilihan warnamu sudah tepat, tetapi jika kamu ingin bereksperimen, kamu juga bisa menggunakan warna-warna berikut.",
+        "tips_makeup_lain": "Tips Makeup lain"
+    },
+    "bold_makeup": {
+        "tujuan_makeup": ["Wedding", "Graduation", "Prom Night", "Party"],
+        "deskripsi_makeup": "Makeup kamu saat ini bertema Bold Makeup. Bold Makeup sangat cocok untuk acara panggung, pertunjukan, pernikahan, atau pesta kostum.\nWarna yang sering digunakan cenderung mencolok, berani, dan memberikan tampilan dramatis seperti eyeliner tebal, warna bibir mencolok, atau glitter yang mencolok.",
+        "pemilihan_warna": "Pemilihan warnamu sudah tepat, tetapi jika kamu ingin bereksperimen, kamu juga bisa menggunakan warna-warna berikut.",
+        "tips_makeup_lain": "Tips Makeup lain"
+    },
+    "casual_makeup": {
+        "tujuan_makeup": ["Sekolah", "Kerja", "Kuliah", "Travelling"],
+        "deskripsi_makeup": "Makeup kamu saat ini bertema Casual Makeup. Casual Makeup mementingkan kesederhanaan dan keanggunan, sangat cocok untuk acara sehari-hari yang lebih santai seperti piknik, bertemu dengan kerabat, mendatangi festival musik, atau pesta kebun. Warna yang sering digunakan antaranya : Beige atau nude, coklat atau coklat muda, pink atau peach, warna netral mata (coklat muda, krem atau abu-abu pucat), warna transparan atau warna kulit.",
+        "pemilihan_warna": "Pemilihan warnamu sudah tepat, tetapi jika kamu ingin bereksperimen, kamu juga bisa menggunakan warna-warna berikut.",
+        "tips_makeup_lain": "Tips Makeup lain"
+    },
+    "vintage_makeup": {
+        "tujuan_makeup": ["Halloween", "Konser", "Cosplay"],
+        "deskripsi_makeup": "Makeup kamu saat ini bertema Vintage Makeup. Vintage Makeup memilihi karakter tampilan mata dengan winged eyeliner, bibir merah muda atau merah yang menonjol serta kulit matte.\nMakeup vintage mengacu pada gaya dan estetika era-era tertentu seperti tahun 1920-an, 1930-an, 1940-an, dst.",
+        "pemilihan_warna": "Pemilihan warnamu sudah tepat, tetapi jika kamu ingin bereksperimen, kamu juga bisa menggunakan warna-warna berikut.",
+        "tips_makeup_lain": "Tips Makeup lain"
+    },
+    "evening_makeup": {
+        "tujuan_makeup": ["Wedding", "Graduation", "Prom Night", "Party"],
+        "deskripsi_makeup": "Makeup kamu saat ini bertema Evening Makeup. Evening Makeup adalah tata rias wajah yang dirancang khusus untuk acara atau kesempatan malam hari yang lebih formal atau istimewa. Tujuan dari tata rias malam hari adalah untuk menciptakan penampilan yang dramatis, elegan, dan lebih \"bersinar\" di bawah cahaya lampu malam.",
+        "pemilihan_warna": "Pemilihan warnamu sudah tepat, tetapi jika kamu ingin bereksperimen, kamu juga bisa menggunakan warna-warna berikut.",
+        "tips_makeup_lain": "Tips Makeup lain"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "average_colors_rgb": {
+        "Blush": [
+            229,
+            188,
+            159
+        ],
+        "Lipstick": [
+            193,
+            146,
+            128
+        ],
+        "Eyeshadow": [
+            207,
+            166,
+            137
+        ],
+        "Foundation": [
+            235,
+            202,
+            170
+        ]
+    },
+    "average_colors_names": {
+        "Blush": "Mollusca",
+        "Lipstick": "Mesa Peach",
+        "Eyeshadow": "Sienna Buff",
+        "Foundation": "Almond Biscuit"
+    },
+    "uploaded_image": "temp_image.jpg",
+    "kategori_makeup": "casual_makeup"
+}

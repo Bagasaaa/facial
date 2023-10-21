@@ -1,0 +1,8 @@
+mediapipe
+opencv-python-headless
+fastapi
+uvicorn
+gdown
+webcolors
+ultralytics
+python-multipart
