@@ -1,5 +1,8 @@
-download model object detection (makeup) here 
-https://drive.google.com/file/d/1okJRBft8sAklYXqiP0eMfU-Lm_VA6p4C/view?usp=drive_link
+download model object detection here 
+https://drive.google.com/drive/u/0/folders/1Z0sdjPt_bN5XJppjXUDl1AG4BWMHUBfq
 
-download model glasses detection here
-https://drive.google.com/file/d/1lXt0TUCzFmF3aDGxEdyBxwI2ZDyXh1Rp/view?usp=drive_link 
+model for detect wear glasses or no:
+model_kacamata_lugastyan.pt
+
+model for detect makeup:
+lugas_ganteng_kedua_setelah_mas_bagas.pt
